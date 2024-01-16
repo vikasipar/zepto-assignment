@@ -1,6 +1,6 @@
 # Zepto Assignment
 
-<img src="https://github.com/vikasipar/zepto-assignment/assets/98696526/114a034f-3090-4a96-9d15-814a9e1d4df2" alt="image" width="00" height="100"/>
+<img src="https://res.cloudinary.com/admitad-gmbh/image/upload/v1656067243/ay86capdywgkzrz38tms.png" alt="image" width="00" height="100" align="center"/>
 
 ### Assignment for React.js Frontend Developer Role
 
