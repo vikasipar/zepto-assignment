@@ -5,6 +5,7 @@
 ### Assignment for React.js Frontend Developer Role
 
 ### My Solution: [Live demo](https://zepto-assignment-vikasipar.vercel.app/)
+#### Tech stack: React.js, Tailwind CSS, Sling Academy Api
 
 ### Assignment  : Code this design in React.
 Video Example - https://drive.google.com/file/d/1sy-YAhX1FYFImjLj1uXNilb7DHlbuveh/view?usp=sharing
